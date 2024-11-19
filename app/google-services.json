@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277025146086",
+    "project_id": "demax-cables",
+    "storage_bucket": "demax-cables.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277025146086:android:4afadd40042c95bd58a727",
+        "android_client_info": {
+          "package_name": "com.breezefielddemax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6l8_2D-KJbjdN7qZGt1xCg_vvzZiehg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
